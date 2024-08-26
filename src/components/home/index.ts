@@ -1,0 +1,9 @@
+export { default as Banner } from './Banner';
+export { default as ShopByCategory } from './ShopByCategory';
+export { default as SeasoningProducts } from './SeasoningProducts';
+export { default as ProductsWrapper } from './ProductsWrapper';
+export { default as MonthlyDealsWrapper } from './MonthlyDealsWrapper';
+export { default as SubBanner } from './SubBanner';
+export { default as Services } from './Services';
+export { default as Reviews } from './Reviews';
+export { default as AddToCart } from './AddToCart';
